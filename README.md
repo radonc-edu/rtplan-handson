@@ -12,3 +12,7 @@
 - 胸椎転移の症例: LCTSC (Lung CT Segmentation Challenge 2017, The Cancer Imaging Archive) の CT を加工したもの。ライセンスは CC BY 3.0。
   Yang, J., Sharp, G., Veeraraghavan, H., Van Elmpt, W., Dekker, A., Lustberg, T., & Gooding, M. (2017). Data from Lung CT Segmentation Challenge (LCTSC) (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.3R3FVZ08
 - 試験用ファントム: 本アプリで作った合成データ（CC0）。
+
+## 修正履歴
+
+公開版の変更点は [CHANGELOG.md](CHANGELOG.md) にあります。
